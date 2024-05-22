@@ -1,0 +1,21 @@
+.image-without-background {
+    background-color: transparent;
+}
+
+.start-chatting-button {
+    background-color: white;
+    color: black;
+    width: 100%;
+    padding: 1rem;
+    border-radius: 9999px;
+    margin-bottom: 1rem;
+    transition: transform 0.3s ease, background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .start-chatting-button:hover {
+    transform: scale(1.05);
+    background-color: black;
+    color: white;
+    
+  }
+  
